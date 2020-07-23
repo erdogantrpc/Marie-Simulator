@@ -1,0 +1,50 @@
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe.config
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.pdb
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csprojAssemblyReference.cache
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Form1.resources
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Properties.Resources.resources
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.GenerateResource.cache
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Documents\Visual Studio 2017\Projects\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.pdb
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe.config
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.pdb
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csprojAssemblyReference.cache
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Form1.resources
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Properties.Resources.resources
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.exe
+C:\Users\Yasin\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.pdb
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe.config
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.pdb
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csprojAssemblyReference.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Form1.resources
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Properties.Resources.resources
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.GenerateResource.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.pdb
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe.config
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.pdb
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Form1.resources
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Properties.Resources.resources
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.exe
+C:\Users\user\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.pdb
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe.config
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\bin\Debug\MarieProgrami.pdb
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csprojAssemblyReference.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Form1.resources
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.Properties.Resources.resources
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.GenerateResource.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.exe
+C:\Users\Erdogan\Desktop\MarieProgrami\MarieProgrami\MarieProgrami\obj\Debug\MarieProgrami.pdb
